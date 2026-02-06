@@ -12,9 +12,7 @@ A production-grade AI application that screens resumes against job descriptions 
 
 ## 🎥 Demo
 
-<video src="https://github.com/vedantbhosle/Resume-Screening-with-RAG/raw/main/demo.mp4" controls="controls" style="max-width: 100%; height: auto;">
-  Your browser does not support the video tag.
-</video>
+> **Demo Video**: Please view the video file `demo.mp4` in this repository or drag-and-drop it here in the GitHub editor to play it inline.
 
 ---
 
