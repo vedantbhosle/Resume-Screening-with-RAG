@@ -1,0 +1,6 @@
+
+Job Description: Software Engineer
+We are looking for a Software Engineer with experience in Python and React.
+Must have knowledge of Docker and AWS.
+SQL experience is a plus.
+Ideally has a computer science degree.

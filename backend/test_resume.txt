@@ -1,0 +1,9 @@
+
+John Doe
+Software Engineer
+Skills: Python, React, Docker, AWS, SQL
+Experience: 
+- Built a Resume Screening tool using React and Python.
+- Deployed applications on AWS.
+Education:
+- BS Computer Science, State University
