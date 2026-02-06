@@ -12,7 +12,7 @@ A production-grade AI application that screens resumes against job descriptions 
 
 ## 🎥 Demo
 
-[Watch the Demo Video](demo.mov)
+[Watch the Demo Video](https://drive.google.com/file/d/1RXSdT5MWucEifDtoL2OoS-qbXUUXQGR5/view?usp=sharing)
 
 ---
 
