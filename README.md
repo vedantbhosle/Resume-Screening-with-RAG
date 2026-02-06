@@ -10,9 +10,16 @@ A production-grade AI application that screens resumes against job descriptions 
 - **RAG Chat**: Ask questions ('experience with React?', 'leadership skills?') and get answers grounded purely in the resume's content using GPT-4o-mini.
 - **Premium UI**: Modern glassmorphism design with React.
 
+
+
+
+
+
 ## 🎥 Demo
 
-> **Demo Video**: Please view the video file `demo.mp4` in this repository or drag-and-drop it here in the GitHub editor to play it inline.
+
+https://github.com/user-attachments/assets/0fbb5503-a1f5-4d66-98a3-5ca89ec341f0
+
 
 ---
 
