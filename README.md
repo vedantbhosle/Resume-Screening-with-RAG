@@ -10,6 +10,10 @@ A production-grade AI application that screens resumes against job descriptions 
 - **RAG Chat**: Ask questions ('experience with React?', 'leadership skills?') and get answers grounded purely in the resume's content using GPT-4o-mini.
 - **Premium UI**: Modern glassmorphism design with React.
 
+## 🎥 Demo
+
+[Watch the Demo Video](demo.mov)
+
 ---
 
 ## 🏗️ Architecture
@@ -53,13 +57,13 @@ The project is a monorepo containing:
    - Add your OpenAI API Key:
      ```env
      OPENAI_API_KEY=sk-your-actual-api-key-here
-     PORT=5000
+     PORT=8000
      ```
 5. Start the Server:
    ```bash
-   uvicorn app.main:app --host 0.0.0.0 --port 5000 --reload
+   uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
    ```
-   *The server runs on http://127.0.0.1:5000*
+   *The server runs on http://127.0.0.1:8000*
 
 ### 2. Setup Frontend (React)
 
